@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/figures/*.png
+outputs/models/*.joblib
+outputs/reports/*.txt
+outputs/reports/*.csv
+.pytest_cache/
